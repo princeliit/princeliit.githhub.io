@@ -1,2 +1,2 @@
-# princeliit.githhub.io
+# princeliit.github.io
 Prince Laurence M. Aureus
